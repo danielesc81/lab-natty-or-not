@@ -1,10 +1,10 @@
-# Imagem Realista ;)
+# Imagem Realista
 
 ## 📒 Descrição
 A imagem criada demonstra a capacidade das IAs Generativas na criação de conteúdos realistas.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
+ChatGPT;
 Dall-E
 
 ## 🧐 Processo de Criação
