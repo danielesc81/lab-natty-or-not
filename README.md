@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagem Realista ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A imagem criada demonstra a capacidade das IAs Generativas na criação de conteúdos realistas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Dall-E
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei imagem realista no ChatGPT usando o Dall-E.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A imagem remete a um menino brincando na areia da praia em um dia ensolarado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um primeiro passo de aprendizado.
